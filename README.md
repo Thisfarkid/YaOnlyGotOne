@@ -5,4 +5,4 @@
 # Implementation
 
 # Creators
-James, Mayum, Lindsey, Dylan
+James, Mayum (Head Narrative Designer), Lindsey (Head Art Designer), Dylan (Head Programmer)
