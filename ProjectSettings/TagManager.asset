@@ -6,6 +6,7 @@ TagManager:
   tags:
   - player
   - puzzleItem
+  - itemPlace
   layers:
   - Default
   - TransparentFX
