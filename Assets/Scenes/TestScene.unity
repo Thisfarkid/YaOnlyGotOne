@@ -1045,7 +1045,7 @@ GameObject:
   - component: {fileID: 1678798254}
   - component: {fileID: 1678798253}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: Keypad
   m_TagString: doorpad
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
