@@ -2478,7 +2478,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+  - {fileID: 2100000, guid: 7d0b90d71bda0c94e8fc643a18fb5599, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2753,13 +2753,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 83342052}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.50174624, y: -0.4909345, z: 0.5090587, w: -0.49808973}
-  m_LocalPosition: {x: 7.8057575, y: 4.027, z: -0.13589168}
+  m_LocalRotation: {x: 0.6492601, y: -0.6352695, z: 0.29891738, w: -0.29247648}
+  m_LocalPosition: {x: 6.4926276, y: 2.87, z: -0.33697408}
   m_LocalScale: {x: 1, y: 0.6608199, z: 0.56235003}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 90, y: -181.752, z: -3}
+  m_LocalEulerAnglesHint: {x: 0, y: -229.442, z: -91.248}
 --- !u!114 &83342059
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4252,7 +4252,7 @@ GameObject:
   - component: {fileID: 179408012}
   - component: {fileID: 179408011}
   m_Layer: 0
-  m_Name: green vial
+  m_Name: Green vial
   m_TagString: puzzleItem
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4308,7 +4308,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+  - {fileID: 2100000, guid: f44409911d6227944beb24639817beec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4584,7 +4584,7 @@ Transform:
   m_GameObject: {fileID: 179408004}
   serializedVersion: 2
   m_LocalRotation: {x: -0.00981221, y: 0.000000020023434, z: -0.0000019039433, w: 0.99995184}
-  m_LocalPosition: {x: -1.8900032, y: 2.4299996, z: 7.24}
+  m_LocalPosition: {x: -1.46, y: 4.96, z: 7.24}
   m_LocalScale: {x: 1, y: 0.6608199, z: 0.5623499}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5995,7 +5995,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ed1b1343d7651a24c9f4c98397bf8419, type: 2}
+  - {fileID: 2100000, guid: f44409911d6227944beb24639817beec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12110,7 +12110,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ed1b1343d7651a24c9f4c98397bf8419, type: 2}
+  - {fileID: 2100000, guid: a3da28e29530484468fac0dad522cadc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -25957,7 +25957,7 @@ GameObject:
   - component: {fileID: 996276673}
   - component: {fileID: 996276672}
   m_Layer: 0
-  m_Name: blue vial
+  m_Name: Blue vial
   m_TagString: puzzleItem
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26013,7 +26013,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+  - {fileID: 2100000, guid: a3da28e29530484468fac0dad522cadc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -31441,7 +31441,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+  - {fileID: 2100000, guid: 95d7e0365c167af409a480d885d7501b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -36451,7 +36451,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+  - {fileID: 2100000, guid: 5870bbef4f599874d9f91d9fc606b3f5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -40611,7 +40611,7 @@ Transform:
   m_GameObject: {fileID: 1910193515}
   serializedVersion: 2
   m_LocalRotation: {x: -0.0018229239, y: 0.012053293, z: -0.70700556, w: 0.707103}
-  m_LocalPosition: {x: 1.410004, y: 9.901648, z: 3.413616}
+  m_LocalPosition: {x: -0.8, y: 10.3, z: 4.15}
   m_LocalScale: {x: 1, y: 0.66081977, z: 0.5623499}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -41703,7 +41703,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ed1b1343d7651a24c9f4c98397bf8419, type: 2}
+  - {fileID: 2100000, guid: 3936efdf8cc298449b715a9237d0a5a2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -42207,7 +42207,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+  - {fileID: 2100000, guid: 3c9398e35b4fdd341b3e43251dd148a4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -45114,7 +45114,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ed1b1343d7651a24c9f4c98397bf8419, type: 2}
+  - {fileID: 2100000, guid: 7d0b90d71bda0c94e8fc643a18fb5599, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -45789,6 +45789,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 782636684}
+    - target: {fileID: 7464660504102010975, guid: b61562264d42a294e9342f3ef4a381ce, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3936efdf8cc298449b715a9237d0a5a2, type: 2}
     - target: {fileID: 8582459601796301389, guid: b61562264d42a294e9342f3ef4a381ce, type: 3}
       propertyPath: m_Mesh
       value: 
