@@ -9,9 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/OpeningScreen.unity
     guid: bce9b4b55cffd344eb3a89a33593634a
   - enabled: 1
-    path: Assets/Scenes/PuzzleRoomScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
     path: Assets/Scenes/EndingScreen.unity
     guid: d594978c6cfe07b49a555482bb8584f4
+  - enabled: 1
+    path: Assets/Scenes/Puzzlescene2.unity
+    guid: 895106a78e5e48a4b9f83fe8edadb0a5
   m_configObjects: {}
